@@ -1,0 +1,12 @@
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\FigureCalculation.csproj.AssemblyReference.cache
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\FigureCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\FigureCalculation.AssemblyInfoInputs.cache
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\FigureCalculation.AssemblyInfo.cs
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\FigureCalculation.csproj.CoreCompileInputs.cache
+D:\ФАЙЛЫ\Project\FigureCalculation\bin\Debug\net6.0\FigureCalculation.deps.json
+D:\ФАЙЛЫ\Project\FigureCalculation\bin\Debug\net6.0\FigureCalculation.dll
+D:\ФАЙЛЫ\Project\FigureCalculation\bin\Debug\net6.0\FigureCalculation.pdb
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\FigureCalculation.dll
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\refint\FigureCalculation.dll
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\FigureCalculation.pdb
+D:\ФАЙЛЫ\Project\FigureCalculation\obj\Debug\net6.0\ref\FigureCalculation.dll
