@@ -1078,9 +1078,6 @@
         }
       },
       "FigureCalculation/1.0.0": {
-        "dependencies": {
-          "MSTest.TestFramework": "2.2.8"
-        },
         "runtime": {
           "FigureCalculation.dll": {}
         }

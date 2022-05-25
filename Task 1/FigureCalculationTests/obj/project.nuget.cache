@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hDQPOK6P+Ou9zK/uOY/PDj87xUSHFvyFE9u4Z58qt6Ld4H8+TzLlKYqxWxVt4BYWTAPPD/i4UlT4+8QXEUm3zQ==",
+  "dgSpecHash": "p5ITVedUbaBit3ADb/yzVjNGgglFEdj7L+/qXXRCYgflfuyxPqVdihywPcRVssVnXKABMJD2LbNEbpHCzFevtA==",
   "success": true,
-  "projectFilePath": "D:\\ФАЙЛЫ\\Project\\SimpleProjectFromFigureCalculation\\FigureCalculationTests\\FigureCalculationTests.csproj",
+  "projectFilePath": "D:\\ФАЙЛЫ\\Project\\MindBoxTasks\\Task 1\\FigureCalculationTests\\FigureCalculationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirill\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

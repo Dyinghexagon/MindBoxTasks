@@ -28,7 +28,7 @@ namespace FigureCalculationTests
         {
             Triangle triangle = new Triangle();
 
-            Double triangleArea = triangle.Area();
+            Double triangleArea = triangle.GetArea();
 
             Assert.AreEqual(7.483315, triangleArea, 0.000001, "Area not correctly");
         }
@@ -37,7 +37,7 @@ namespace FigureCalculationTests
         {
             Triangle triangle = new Triangle(5, 12, 10);
 
-            Double triangleArea = triangle.Area();
+            Double triangleArea = triangle.GetArea();
 
             Assert.AreEqual(24.544602, triangleArea, 0.000001, "Area not correctly");
         }
@@ -46,7 +46,7 @@ namespace FigureCalculationTests
         {
             Triangle triangle = new Triangle(4, 5, 6);
 
-            Double triangleArea = triangle.Area();
+            Double triangleArea = triangle.GetArea();
 
             Assert.AreEqual(9.921567, triangleArea, 0.000001, "Area not correctly");
         }
@@ -55,7 +55,7 @@ namespace FigureCalculationTests
         {
             Triangle triangle = new Triangle(3.5, 6.3, 3);
 
-            Double triangleArea = triangle.Area();
+            Double triangleArea = triangle.GetArea();
 
             Assert.AreEqual(2.512051, triangleArea, 0.000001, "Area not correctly");
         }

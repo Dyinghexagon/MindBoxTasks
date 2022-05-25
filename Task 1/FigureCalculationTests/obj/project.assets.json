@@ -1664,9 +1664,6 @@
       "FigureCalculation/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "MSTest.TestFramework": "2.2.7"
-        },
         "compile": {
           "bin/placeholder/FigureCalculation.dll": {}
         },
@@ -6213,8 +6210,8 @@
     },
     "FigureCalculation/1.0.0": {
       "type": "project",
-      "path": "../../FigureCalculation/FigureCalculation.csproj",
-      "msbuildProject": "../../FigureCalculation/FigureCalculation.csproj"
+      "path": "../FigureCalculation/FigureCalculation.csproj",
+      "msbuildProject": "../FigureCalculation/FigureCalculation.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6233,11 +6230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ФАЙЛЫ\\Project\\SimpleProjectFromFigureCalculation\\FigureCalculationTests\\FigureCalculationTests.csproj",
+      "projectUniqueName": "D:\\ФАЙЛЫ\\Project\\MindBoxTasks\\Task 1\\FigureCalculationTests\\FigureCalculationTests.csproj",
       "projectName": "FigureCalculationTests",
-      "projectPath": "D:\\ФАЙЛЫ\\Project\\SimpleProjectFromFigureCalculation\\FigureCalculationTests\\FigureCalculationTests.csproj",
+      "projectPath": "D:\\ФАЙЛЫ\\Project\\MindBoxTasks\\Task 1\\FigureCalculationTests\\FigureCalculationTests.csproj",
       "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-      "outputPath": "D:\\ФАЙЛЫ\\Project\\SimpleProjectFromFigureCalculation\\FigureCalculationTests\\obj\\",
+      "outputPath": "D:\\ФАЙЛЫ\\Project\\MindBoxTasks\\Task 1\\FigureCalculationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6258,8 +6255,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ФАЙЛЫ\\Project\\FigureCalculation\\FigureCalculation.csproj": {
-              "projectPath": "D:\\ФАЙЛЫ\\Project\\FigureCalculation\\FigureCalculation.csproj"
+            "D:\\ФАЙЛЫ\\Project\\MindBoxTasks\\Task 1\\FigureCalculation\\FigureCalculation.csproj": {
+              "projectPath": "D:\\ФАЙЛЫ\\Project\\MindBoxTasks\\Task 1\\FigureCalculation\\FigureCalculation.csproj"
             }
           }
         }

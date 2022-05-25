@@ -14,7 +14,7 @@ namespace FigureCalculation
         {
             Radius = radius;
         }
-        public override double Area()
+        public override Double GetArea()
         {
             return Math.PI * (Radius * Radius);
             throw new NotImplementedException();

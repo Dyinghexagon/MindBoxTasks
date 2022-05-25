@@ -43,7 +43,7 @@ namespace FigureCalculation
             }
         }
 
-        public override Double Area()
+        public override Double GetArea()
         {
             Double halfPerimetr = this.Perimetr() / 2;
             Double area = Math.Sqrt(halfPerimetr *
