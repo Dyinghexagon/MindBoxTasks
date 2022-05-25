@@ -1,1 +1,1 @@
-# MinBoxTasks
+# MindBoxTasks
